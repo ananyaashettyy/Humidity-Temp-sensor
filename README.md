@@ -21,9 +21,13 @@ This project demonstrates a simple IoT-based temperature and humidity monitoring
 Features:
 
 Real-time temperature and humidity monitoring
+
 Wi-Fi connectivity for local web-based data access
+
 Simple and cost-effective hardware setup
+
 Hardware: ESP8266, DHT11, Breadboard, Jumper Wires
+
 Software: Arduino IDE, DHT & ESP8266WiFi Libraries
 
 Clone this repository and create your own real-time monitoring system! 🌐
