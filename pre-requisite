@@ -1,0 +1,14 @@
+Hardware Implementation
+1.ESP8266 NodeMCU
+2.DHT11 Temperature and Humidity Sensor
+3.Breadboard
+4.Jumper Wires
+5.Micro USB Cable (for power and data)
+
+Software Requirements
+1.Arduino IDE 2.3.4
+2.DHT sensor library (for reading temperature and humidity).
+3.ESP8266WiFi library (for Wi-Fi communication).
+
+References
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
