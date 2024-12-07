@@ -10,5 +10,5 @@ Software Requirements
 2.DHT sensor library (for reading temperature and humidity).
 3.ESP8266WiFi library (for Wi-Fi communication).
 
-References
+References in Ardinuo IDE
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
